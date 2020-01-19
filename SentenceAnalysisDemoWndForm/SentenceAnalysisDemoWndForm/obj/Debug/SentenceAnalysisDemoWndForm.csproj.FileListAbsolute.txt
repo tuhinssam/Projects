@@ -1,0 +1,110 @@
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\SentenceAnalysisDemoWndForm.exe.config
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\SentenceAnalysisDemoWndForm.exe
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\SentenceAnalysisDemoWndForm.pdb
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Auth.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Core.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Cloud.Language.V1.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Protobuf.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Auth.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.Api.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\System.Interactive.Async.dll
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.pdb
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.pdb
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Auth.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Core.pdb
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Core.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Cloud.Language.V1.pdb
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Cloud.Language.V1.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Protobuf.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Auth.pdb
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Auth.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.pdb
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.Api.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\System.Interactive.Async.xml
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.csprojAssemblyReference.cache
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.Form1.resources
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.Properties.Resources.resources
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.csproj.GenerateResource.cache
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.csproj.CoreCompileInputs.cache
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.csproj.CopyComplete
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.exe
+C:\Users\tuhin.samanta\Desktop\Google ML Crash Course\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\SentenceAnalysisDemoWndForm.exe.config
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\SentenceAnalysisDemoWndForm.exe
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\SentenceAnalysisDemoWndForm.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Auth.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Core.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Cloud.Language.V1.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Protobuf.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Auth.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.Api.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\System.Interactive.Async.dll
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Auth.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Core.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Apis.Core.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Cloud.Language.V1.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Cloud.Language.V1.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Google.Protobuf.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Auth.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Auth.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Grpc.Core.Api.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\bin\Debug\System.Interactive.Async.xml
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.csprojAssemblyReference.cache
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.Form1.resources
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.Properties.Resources.resources
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.csproj.GenerateResource.cache
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.csproj.CoreCompileInputs.cache
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.csproj.CopyComplete
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.exe
+C:\Users\tuhin.samanta\Desktop\Personal\Personal POC\SentenceAnalysisDemoWndForm\SentenceAnalysisDemoWndForm\obj\Debug\SentenceAnalysisDemoWndForm.pdb

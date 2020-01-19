@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$title$</id>
+    <version>$version$</version>
+    <title>UiPathTeam.JSONUtilities.Activities</title>
+    <authors>tuhin.samanta@uipath.com</authors>
+    <owners>tuhin.samanta</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>uipath.com/components-license-agreement</licenseUrl>
+    <projectUrl>https://integrations.uipath.com/docs/integrating-with-uipath</projectUrl>
+    <description>
+      This Package contains following activities:
+      1. Convert Datatable to JSON 
+      2. Convert JSON to CSV
+      3. Convert JSON to XML
+      4. Convert XML to JSON
+      5. Validate JSON without Schema (Chrecks fotmat of the JSON is correct)
+      6. Validate JSON with Schema (Compares JSON with the given Schema)
+      7. Validate XML
+    </description>
+    <copyright>2019</copyright>
+    <tags>UiPath</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
+

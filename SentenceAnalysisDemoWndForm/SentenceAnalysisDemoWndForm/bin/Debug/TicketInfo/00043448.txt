@@ -1,0 +1,85 @@
+{
+	"TicketNum": "00043448",
+	"TicketResponses": [{
+			"SentTo": "alexandre.revilla-martinez@dxc.com",
+			"SentFrom": "uipathsupport@uipath.com",
+			"Subject": "00043448_Orchestrator logs are disordered",
+			"Body": "Hi Alexandre,Thanks for contacting UiPath.Could you please share more details about the issue. Please share the below details-- What is the expected and actual behaviour.- As you have mentioned that on studio the behaviour is ok, is it means that the logs given in the workflow is not coming in orchestrator?- If so, please check the log level in studio log message activity, it should be higher or same then what is set in the robot tray and in the web.config file of the orchestrator server. Please visit the below link for more insights on the logs-https://orchestrator.uipath.com/docs/about-logs- Please share few screenshots to explain the issue.As this is not hampering the working of the robots, I am reducing the priority to Medium as per UiPath policy. However, please be assured that I will keep responding to you promptly. If you want to increase the priority, please share the business impact for the same.Please feel free to reach out if you have any queries.Thanks,Vikash",
+			"Time": "12/28/2018 12:01 PM",
+			"Sentiment": 0
+		},
+		{
+			"SentTo": "alexandre.revilla-martinez@dxc.com",
+			"SentFrom": "uipathsupport@uipath.com",
+			"Subject": "00043448_Orchestrator logs are disordered",
+			"Body": "Hello  Alexandre,I am checking if you had a chance to see my previous email, please let me know if you need any further assistance or is it good to mark this Case 00043448 as resolved not closed. Regards,Vikash",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+		{
+			"SentTo": "uipathsupport@uipath.com",
+			"SentFrom": "alexandre.revilla-martinez@dxc.com",
+			"Subject": "00043448_Orchestrator logs are disordered",
+			"Body": "Hi Vikash,I will explain de details yu've mentioned on the last mail What is the expected and actual behaviour.Actual behaviour: The logs are displayed disordered in Orchestrator and we don't know whyExpected behaviour: The Orchestrator logs should be displayed in the same order than the Studio (correct order)- As you have mentioned that on studio the behaviour is ok, is it means that the logs given in the workflow is not coming in orchestrator?The logs from the last version of the process are displayed on orchestrator, but in a order different than defined on the studio.- If so, please check the log level in studio log message activity, it should be higher or same then what is set in the robot tray and in the web.config file of the orchestrator server. Please visit the below link for more insights on the logsThe log level is set at INFO on the studio activities, we have tried with TRACE and WARN and the same happend- Please share few screenshots to explain the issue.Sharing screenshots of the process:In the next screenshot we can see the Main of our process, where execute the sequences in the order defined...On the next screenshot we can see the disorder:The log order on orchestrator is setted from down to up, so the top log should be the last of the codeA1 = First log of the Sequence Cambio de estados 4,5,6 A2 =  Last log of the SequenceTratamiento de RespuestasYour teammate Bodgan Coman told me las week he will assign the ticket when he came back of his vacations.Thank youfor your help.Best,Alex ",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+		{
+			"SentTo": "uipathsupport@uipath.com",
+			"SentFrom": "alexandre.revilla-martinez@dxc.com",
+			"Subject": "00043448_Orchestrator logs are disordered",
+			"Body": "Hi Vikash,I will explain de details yu've mentioned on the last mail What is the expected and actual behaviour.Actual behaviour: The logs are displayed disordered in Orchestrator and we don't know whyExpected behaviour: The Orchestrator logs should be displayed in the same order than the Studio (correct order)- As you have mentioned that on studio the behaviour is ok, is it means that the logs given in the workflow is not coming in orchestrator?The logs from the last version of the process are displayed on orchestrator, but in a order different than defined on the studio.- If so, please check the log level in studio log message activity, it should be higher or same then what is set in the robot tray and in the web.config file of the orchestrator server. Please visit the below link for more insights on the logsThe log level is set at INFO on the studio activities, we have tried with TRACE and WARN and the same happend- Please share few screenshots to explain the issue.Sharing screenshots of the process:In the next screenshot we can see the Main of our process, where execute the sequences in the order defined...On the next screenshot we can see the disorder:The log order on orchestrator is setted from down to up, so the top log should be the last of the codeA1 = First log of the Sequence Cambio de estados 4,5,6 A2 =  Last log of the SequenceTratamiento de RespuestasYour teammate Bodgan Coman told me las week he will assign the ticket when he came back of his vacations.Thank youfor your help.Best,Alex ",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+
+		{
+			"SentTo": "alexandre.revilla-martinez@dxc.com",
+			"SentFrom": "uipathsupport@uipath.com",
+			"Subject": "00043448_Orchestrator logs are disordered",
+			"Body": "Hello  Alexandre,I am checking if you had a chance to see my previous email, please let me know if you need any further assistance.Regards,Vikash",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+		{
+			"SentTo": "uipathsupport@uipath.com",
+			"SentFrom": "alexandre.revilla-martinez@dxc.com",
+			"Subject": "00043448_Orchestrator logs are disordered",
+			"Body": "Good morning,The issue is solved putting delays between, but we do not expect that solution. Best,Alex",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+		{
+			"SentTo": "alexandre.revilla-martinez@dxc.com",
+			"SentFrom": "uipathsupport@uipath.com",
+			"Subject": "00043448_Orchestrator logs are disordered",
+			"Body": "Hi Alex,Thanks for the confirmation.I would like to inform you that this has been already forwarded to the development team for further investigation. This will be fixed in the upcoming versions based on the feasibility. I would request you to subscribe the release notes to get  the updates about product releases. You can subscribe for the same by visiting the below link-https://www.uipath.com/product/release-notesHope this makes sense. Please let me know if you are happy to mark this case as solved for now or if you have any further queries.Thanks,Vikash",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+		{
+			"SentTo": "alexandre.revilla-martinez@dxc.com",
+			"SentFrom": "uipathsupport@uipath.com",
+			"Subject": "00043448_Orchestrator logs are disordered",
+			"Body": "Hi Alex,Hope you are doing well.I am checking if you have got a chance to check my previous email. Please confirm if you are happy to mark this case as solved or if you need any further information.Thanks,Vikash",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+		{
+			"SentTo": "uipathsupport@uipath.com",
+			"SentFrom": "alexandre.revilla-martinez@dxc.com",
+			"Subject": "00043448_Orchestrator logs are disordered",
+			"Body": "Hello,Please, can you assure the issue is escalated to the development team?In this case we can put the ticket to resolved.Thank you Vikash,",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+		{
+			"SentTo": "alexandre.revilla-martinez@dxc.com",
+			"SentFrom": "uipathsupport@uipath.com",
+			"Subject": "00043448_Orchestrator logs are disordered",
+			"Body": "Hi Alex,Yes, this has been escalated to the development team already and a discussion is going on for this. This will be fixed in the upcoming versions based on the feasibility. Sorry to mention again, I would request you to subscribe the release notes to get  the updates about product releases. You can subscribe for the same by visiting the below link-https://www.uipath.com/product/release-notesAs per your confirmation. I am marking this case as solved. Please feel free to create a new case if you face any issues in future. We will be happy to assist.Thanks,Vikash",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		}
+	]
+}

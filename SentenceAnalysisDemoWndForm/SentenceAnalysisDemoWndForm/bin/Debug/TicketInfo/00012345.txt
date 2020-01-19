@@ -1,0 +1,61 @@
+{
+	"TicketNum": "00012345",
+	"TicketResponses": [{
+			"SentTo": "tuhin.samanta@uipath.com",
+			"SentFrom": "uipathsupport@uipath.com",
+			"Subject": "00020493_Title case are not working in Word Application Scope Replace Text Activity",
+			"Body": "Dear Nitin,Thank you for Contacting UiPath!We can reproduce the issue with ReplaceText Activity inside Word ApplicationScope. We will confirm internally ifthis has been already reported,therwise we will raise that issue.As an workaround you can useWordDocument.Replace Text Activity asbelow. It replaces the string asexpected.Image_2018-12-28_11-56-52.png Please find the sample workflowattached herewith. Regards,Tuhin",
+			"Time": "12/28/2018 12:01 PM",
+			"Sentiment": 0
+		},
+		{
+			"SentTo": "uipathsupport@uipath.com",
+			"SentFrom": "tuhin.samanta@uipath.com",
+			"Subject": "00020493_Title case are not working in Word Application Scope Replace Text Activity",
+			"Body": "Hello  Nitin,I am checking if you had a chance to see my previous email, please let me know if you need any further assistance or is it good to mark this Case 00020493 as resolved not closed. Regards,Tuhin",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+		{
+			"SentTo": "tuhin.samanta@uipath.com",
+			"SentFrom": "uipathsupport@uipath.com",
+			"Subject": "00020493_Title case are not working in Word Application Scope Replace Text Activity",
+			"Body": "Since I have not heard back from you after multiple follow-ups, I will go ahead and mark this Case 00020493  as Closed. Please find the Resolution Summary:Issue Description:Title case are not working in Word Application Scope Replace Text ActivityResolution:1.",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+                {
+			"SentTo": "tuhin.samanta@uipath.com",
+			"SentFrom": "uipathsupport@uipath.com",
+			"Subject": "00020493_Title case are not working in Word Application Scope Replace Text Activity",
+			"Body": "Since I have not heard back from you after multiple follow-ups, I will go ahead and mark this Case 00020493  as Closed. Please find the Resolution Summary:Issue Description:",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+                {
+			"SentTo": "tuhin.samanta@uipath.com",
+			"SentFrom": "uipathsupport@uipath.com",
+			"Subject": "00020493_Title case are not working in Word Application Scope Replace Text Activity",
+			"Body": "Since I have not heard back from you after multiple follow-ups, I will go ahead and mark this Case 00020493  as Closed. Please find the Resolution Summary:Issue Description:Title case are not working in Word Application Scope Replace Text ActivityResolution:1. In MS Word, if you try to replace any word having all uppercase with  a word with all lowercase , it will make the replaced word in all caps. So this is an expected behavior as excel application scope stores the state of the excel.2. For your specific requirement, you can use WordDocument.Replace Text Activity as below. It replaces the string as expected. WordDocument doesn't open the word, so state is not preserved.Image_2018-12-28_11-56-52.pngPlease feel free to create a new Technical Support ticket for any further issues, we will be glad to assist you. Regards,Tuhin",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+                {
+			"SentTo": "uipathsupport@uipath.com",
+			"SentFrom": "tuhin.samanta@uipath.com",
+			"Subject": "00020493_Title case are not working in Word Application Scope Replace Text Activity",
+			"Body": "It replaces the string as expected. WordDocument doesn't open the word, so state is not preserved.Image_2018-12-28_11-56-52.pngPlease feel free to create a new Technical Support ticket for any further issues, we will be glad to assist you. Regards,Tuhin",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		},
+                {
+			"SentTo": "uipathsupport@uipath.com",
+			"SentFrom": "tuhin.samanta@uipath.com",
+			"Subject": "00020493_Title case are not working in Word Application Scope Replace Text Activity",
+			"Body": "WordDocument doesn't open the word, so state is not preserved.Image_2018-12-28_11-56-52.pngPlease feel free to create a new Technical Support ticket for any further issues, we will be glad to assist you. Regards,Tuhin",
+			"Time": "12/30/2018 12:30 PM",
+			"Sentiment": 0
+		}
+
+	]
+}
