@@ -760,11 +760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tuhin.samanta\\source\\repos\\OrchestratorAPIusingCSharp\\OrchestratorAPIusingCSharp\\OrchestratorAPIusingCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\tuhin.samanta\\Desktop\\Personal\\Personal POC\\Additional Projects\\OrchestratorAPIusingCSharp\\OrchestratorAPIusingCSharp\\OrchestratorAPIusingCSharp.csproj",
       "projectName": "OrchestratorAPIusingCSharp",
-      "projectPath": "C:\\Users\\tuhin.samanta\\source\\repos\\OrchestratorAPIusingCSharp\\OrchestratorAPIusingCSharp\\OrchestratorAPIusingCSharp.csproj",
+      "projectPath": "C:\\Users\\tuhin.samanta\\Desktop\\Personal\\Personal POC\\Additional Projects\\OrchestratorAPIusingCSharp\\OrchestratorAPIusingCSharp\\OrchestratorAPIusingCSharp.csproj",
       "packagesPath": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuhin.samanta\\source\\repos\\OrchestratorAPIusingCSharp\\OrchestratorAPIusingCSharp\\obj\\",
+      "outputPath": "C:\\Users\\tuhin.samanta\\Desktop\\Personal\\Personal POC\\Additional Projects\\OrchestratorAPIusingCSharp\\OrchestratorAPIusingCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
